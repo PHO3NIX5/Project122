@@ -64,7 +64,7 @@ function draw() {
   }
 }
 function clearcanvas(){
-  background(rgb(100, 255, 100));
+  background("rgb(100, 255, 100)");
 }
 
 function speak(){
